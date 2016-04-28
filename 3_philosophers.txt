@@ -1,0 +1,1 @@
+The Tanenbaum Solution is more efficient and it takes less time as compared to Footman and Left hand solution since the possibility of deadlock and starvation is less. The reason for this is that in Tanenbaum's solution, the Semaphore is acquired and released sooner so that other philosophers can then use the same.
